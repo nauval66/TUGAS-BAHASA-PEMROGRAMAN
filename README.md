@@ -93,9 +93,9 @@ String Format 1
 Pada syntax / source code string format 1 akan menampilkan output berupa 2 outputan. Yang pertama (sebelah kiri) akan menampilkan angka Urut dari angka 0 hingga angka 10, sedangkan untuk sebelah kanan akan menampilkan Operasi Aritmatika Pangkat. Dengan ketentuan sebagai berikut, operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )
 Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10. dengan output sebagai berikut :
 
-![printlab2.png](pic/printlab2.png)
+![print2.png](pic/print2.png)
 
-![lab1-2.png](pic/lab1-2)
+![lab1-2.png](pic/lab1-2.png)
 
 String Format 2
 
